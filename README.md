@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.tenor.com/lI077jIqwvwAAAPo/pepe-code-pepe-computer.mp4">
+  <img src="[https://media.tenor.com/lI077jIqwvwAAAPo/">
 </p>
 
 <h1 align="center">[Discord] - 3spC0d3x (V1.0.0)</h1>
