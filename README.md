@@ -15,7 +15,7 @@
   <a href="https://www.python.org">
     <img src="https://img.shields.io/badge/Python-3.10-informational.svg">
   </a>
-  <a href="https://github.com/AstraaDev/Discord-All-Tools-In-One">
+  <a href="https://github.com/3spC0d3x">
     <img src="https://img.shields.io/badge/covarage-95%25-green">
   </a>
 </p>
