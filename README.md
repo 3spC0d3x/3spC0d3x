@@ -21,7 +21,7 @@
 </p>
 
 <p align="center">
-  [Discord] - ATIO is a Script Gathering for Windows/Linux systems written in Python.
+  [This scripts are for Windows/Linux systems written in Python.]
 </p>
 
 ## Disclaimer
