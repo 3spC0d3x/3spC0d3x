@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.tenor.com/lI077jIqwvwAAAPo/">
+  <img src="https://media.tenor.com/JZFx5PtapzcAAAAC/pepe-hacker-pog.gif">
 </p>
 
 <h1 align="center">[Discord] - 3spC0d3x (V1.0.0)</h1>
