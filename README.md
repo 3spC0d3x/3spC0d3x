@@ -17,9 +17,6 @@
   </a>
   <a href="https://github.com/AstraaDev/Discord-All-Tools-In-One">
     <img src="https://img.shields.io/badge/covarage-95%25-green">
-
-    <p align="center"> <a href="https://twitter.com/3spC0d3x" target="blank">
-    <img src="https://img.shields.io/twitter/follow/3spC0d3x?logo=twitter&style=for-the-badge" alt="3spC0d3x"/></a>
   </a>
 </p>
 
