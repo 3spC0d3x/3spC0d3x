@@ -15,11 +15,12 @@ Experienced in building web applications using HTML, CSS, JavaScript, and React.
 <div align="center">
 
 <a href="https://github.com/3spC0d3x/">
-  <img src="https://github-readme-stats.vercel.app/api?username=Miguel07Alm&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Miguel07Alm&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375"  alt="3spC0d3x"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=3spC0d3x&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=3spC0d3x&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375"  alt="3spC0d3x"/>
 
 </a>
 </div>
 
 
-![Background Image](https://github.com/miguel07alm/miguel07alm/blob/main/black-hole.jpg?raw=true)
+```math
+\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.5; background: url('https://github.com/3spC0d3x/3spC0d3x/blob/main/black-hole.jpg?raw=true');]{x0000}$}
